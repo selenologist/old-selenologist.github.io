@@ -1,0 +1,22 @@
+# Jekyll configuration and generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler configuration
+Gemfile.lock
+
+# Log files
+*.log
+
+# Temporary files
+*~
+
+# Editor backup files
+*.bak
+*.swp
+
+# Build artifacts (if applicable)
+*.zip
+*.tar.gz
